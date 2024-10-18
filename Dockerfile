@@ -14,7 +14,7 @@ RUN npm install
 COPY . .
 
 # Exponha a porta em que a aplicação irá rodar
-EXPOSE 5173
+EXPOSE 5174
 
 # Comando para rodar a aplicação em modo de desenvolvimento
 CMD ["npm", "run", "dev"]
