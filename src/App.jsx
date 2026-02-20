@@ -7,13 +7,7 @@ function App() {
       </header>
       <div className="user-group">
         <div className="input-group">
-          <label htmlFor="">Base</label>
-          <input type="text" id="" />
-          <label htmlFor="">Base</label>
-          <input type="text" id="" />
-          <label htmlFor="">Base</label>
-          <input type="text" id="" />
-          <label htmlFor="">Base</label>
+          <label htmlFor="base">Base</label>
           <input type="text" id="" />
         </div>
       </div>
@@ -22,10 +16,8 @@ function App() {
       </div>
       <div id="result">
         <thead>
-          <label htmlFor="">Results</label>
           <tbody>
             <label htmlFor="">Results</label>
-
             <input type="text" id="" />
           </tbody>
         </thead>

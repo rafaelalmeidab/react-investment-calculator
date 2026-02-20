@@ -38,4 +38,4 @@ To explore the projects and solutions, follow these steps.
    ```bash
    docker compose up -d
      
-5. Open http://localhost:5174 in your browser.
+5. Open http://localhost:5185 in your browser.
